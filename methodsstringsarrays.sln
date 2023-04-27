@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodsstringsarrays.stringsarrays", "methodsstringsarrays.stringsarrays\methodsstringsarrays.stringsarrays.csproj", "{3619B51A-3432-443F-BED1-FFC407134604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodsstringsarrays.methodsscope", "methodsstringsarrays.methodsscope\methodsstringsarrays.methodsscope.csproj", "{D6EB1658-F956-4ACC-8FA5-B1A9A1C661CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3619B51A-3432-443F-BED1-FFC407134604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3619B51A-3432-443F-BED1-FFC407134604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3619B51A-3432-443F-BED1-FFC407134604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3619B51A-3432-443F-BED1-FFC407134604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EB1658-F956-4ACC-8FA5-B1A9A1C661CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EB1658-F956-4ACC-8FA5-B1A9A1C661CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EB1658-F956-4ACC-8FA5-B1A9A1C661CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EB1658-F956-4ACC-8FA5-B1A9A1C661CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39218E8-0532-459B-AAEB-DF21CB94F196}
+	EndGlobalSection
+EndGlobal
